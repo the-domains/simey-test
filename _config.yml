@@ -1,7 +1,7 @@
 name: simey test
 favicon: null
-layout_spectrum: 0.3626600047573447
-typography_spectrum: 0.8537291111424565
+layout_spectrum: 0.48362
+typography_spectrum: 1
 cta:
   domain: null
   bucket: null
