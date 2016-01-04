@@ -4,7 +4,7 @@
         <description><![CDATA[simeys cockail recipes]]></description>
         <link>https://thegrid.ai/simey-test/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 04 Jan 2016 12:19:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Jan 2016 12:23:34 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/simey-test/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -22,10 +22,10 @@
         </item>
         <item>
             <title><![CDATA[Bar Paraphenalia]]></title>
-            <description><![CDATA[<article><h1>Bar Paraphenalia</h1><p>Green Hornet - $100Bacardi superior / absinthe / ginger honey / lime / basil / St. German Foam.</p></article>]]></description>
+            <description><![CDATA[<article><h1>Bar Paraphenalia</h1><p>Green Hornet - $100Bacardi superior / absinthe / ginger honey / lime / basil / St. German Foam.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d578f4eadfe601a54c936b16453fd7690c52082a.jpg"></article>]]></description>
             <link>https://thegrid.ai/simey-test/bar-paraphenalia/index.html</link>
             <guid isPermaLink="false">f3b92700-73f5-4254-8693-98ec7999a022</guid>
-            <pubDate>Mon, 04 Jan 2016 11:48:13 GMT</pubDate>
+            <pubDate>Mon, 04 Jan 2016 12:23:14 GMT</pubDate>
         </item>
     </channel>
 </rss>
