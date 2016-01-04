@@ -2,6 +2,7 @@ name: simey test
 favicon: null
 layout_spectrum: 0.48362
 typography_spectrum: 1
+title: simeys cockail recipes
 cta:
   domain: null
   bucket: null
